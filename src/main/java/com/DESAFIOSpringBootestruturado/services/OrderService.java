@@ -3,9 +3,7 @@ package com.DESAFIOSpringBootestruturado.services;
 
 import com.DESAFIOSpringBootestruturado.dto.OrderDTO;
 import com.DESAFIOSpringBootestruturado.dto.OrderItemDTO;
-import com.DESAFIOSpringBootestruturado.entities.Order;
-import com.DESAFIOSpringBootestruturado.entities.OrderItem;
-import com.DESAFIOSpringBootestruturado.entities.OrderStatus;
+import com.DESAFIOSpringBootestruturado.entities.*;
 import com.DESAFIOSpringBootestruturado.repositories.OrderItemRepository;
 import com.DESAFIOSpringBootestruturado.repositories.OrderRepository;
 import com.DESAFIOSpringBootestruturado.repositories.ProductRepository;
